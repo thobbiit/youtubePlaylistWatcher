@@ -1,2 +1,2 @@
 # youtubePlaylistWatcher
-checks if a playlist has a new video and downloads the video with metube
+A docker image written in Python that checks if a playlist has a new video and downloads the new video with metube
